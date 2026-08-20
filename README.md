@@ -78,7 +78,7 @@ python number_guessing_game.py
 Add your game screenshot here:
 
 ```text
-screenshots/game.png
+number guessing game.png
 ```
 
 ## 🔮 Future Enhancements
