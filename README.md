@@ -45,7 +45,7 @@ Tkinter is included with most standard Python installations.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone[ https://github.com/your-username/number-guessing-game.git](https://github.com/vaishnavisharnagat/number-guessing-game.git)
 ```
 
 ### 2. Open the Project Folder
